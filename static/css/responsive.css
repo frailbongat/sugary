@@ -1,0 +1,34 @@
+@media (max-width: 768px) {
+    body {
+        text-align: center;
+    }
+    .scroll, .deals, .paragraph {
+        margin: 20px auto;
+        max-width: 80%;
+    }
+    .mt-100 {
+        margin-top: 50px;
+    }
+    .img-3 {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .page-3 {
+        justify-content: center;
+    }
+    .see-more {
+        align-self: center;
+    }
+}
+
+@media (max-width: 425px) {
+    .page-4 {
+        height: auto;
+    }
+}
+
+@media (max-width: 320px) {
+    .real-time-deals, .screenshot {
+        width: 18rem;
+    }
+}

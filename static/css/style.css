@@ -1,0 +1,172 @@
+/*GLOBAL*/
+body {
+    background: #fff;
+    min-height: 90vh;
+}
+
+/*SPACING*/
+.mt-25 {
+    margin-top: 25px;
+}
+.mt-50 {
+    margin-top: 50px;
+}
+.mt-100 {
+    margin-top: 100px
+}
+.mb-25 {
+    margin-bottom: 25px;
+}
+.mb-50 {
+    margin-bottom: 50px;
+}
+.mt-200 {
+    margin-top: 200px;
+}
+
+/*TYPOGRAPHY*/
+.book-20 {
+    font-family: 'sharp_groteskbook_20';
+    color: #191951;
+}
+.light-20 {
+    font-family: 'sharp_grotesklight_20';
+    color: #191951;
+}
+.medium-20 {
+    font-family: 'sharp_groteskmedium_20';
+    color: #5E58E8;
+}
+.semibold-20 {
+    font-family: 'sharp_grotesksemibold_20';
+    color: #12124C;
+}
+.scroll {
+    max-width: 100px;
+}
+.paragraph {
+    max-width: 300px;
+}
+.deals {
+    max-width: 260px;
+    line-height: 50px;
+}
+
+/*IMAGE*/
+.img-1 {
+    height: auto;
+    width: 20rem;
+}
+.img-2 {
+    height: auto;
+    width: 20rem;
+}
+.img-3 {
+    height: auto;
+    width: 10rem;
+    display: block;
+    margin-left: auto;
+}
+.icon {
+    height: auto;
+    width: 45px;
+}
+
+/*LANDING PAGE*/
+.page-1 {
+    background-image: url("/static/img/Hero-Illustration-New-Colors.png");
+    background-size: cover;
+    width: auto;
+    height: 100vh;
+}
+.navbar {
+    background: transparent;
+}
+.navbar-brand {
+    padding-top: 13px;
+    font-family: 'Playball', cursive;
+    color: #F55EAD;
+}
+.navbar-brand:hover {
+    color: #fff;
+}
+.nav-link {
+    padding-top: 20px;
+    font-family: 'sharp_groteskbook_20';
+    color: #fff;
+    margin-right: 1.5rem !important;
+    text-align: left;
+}
+.nav-link:hover {
+    color: #F55EAD;
+}
+.active {
+    color: #F55EAD;
+}
+.first {
+    color: #5442AA;
+}
+.navbar-toggler {
+    margin-top: 8px;
+}
+
+.page-2 {
+    background-image: url("/static/img/second-bg.png");
+    background-repeat: no-repeat;
+    background-size: 25vw;
+    background-position-y: 400px;
+}
+
+.page-3 {
+    height: 100vh;
+    display: flex;
+    justify-content: flex-end;
+}
+.see-more {
+    color: #FFB933;
+    align-self: flex-end;
+    height: 30vh;
+}
+
+.page-4 {
+    height: 100vh;
+}
+
+.foot {
+    background-image: url("/static/img/foot.png");
+}
+.foot-brand {
+    color: #6C5ABF;
+}
+.contact-link {
+    font-family: 'sharp_grotesksemibold_20';
+    color: #6C5ABF;
+}
+.foot-link {
+    font-family: 'sharp_grotesksemibold_20';
+}
+.back-link {
+    font-family: 'sharp_groteskmedium_20';
+}
+.sign-up {
+    max-width: 115px;
+    text-align: left;
+}
+.join {
+    color: #6C5ABF;
+}
+.app {
+    color: #6C5ABF;
+    max-width: 380px;
+    text-align: right;
+    margin-left: 120px;
+    margin-bottom: 60px;
+}
+.foot-links {
+    font-family: 'sharp_groteskbook_20';
+    color: #6C5ABF;
+}
+.fa-instagram {
+    color: #fff;
+    font-size: 30px;
+}
