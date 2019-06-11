@@ -74,7 +74,7 @@ body {
 
 /*LANDING PAGE*/
 .page-1 {
-    background-image: url("https://github.com/johnfrail/sugary/blob/master/static/img/Hero-Illustration-New-Colors.png?raw=true");
+    background-image: url("/static/img/Hero-Illustration-New-Colors.png");
     background-size: cover;
     width: auto;
     height: 100vh;
@@ -111,7 +111,7 @@ body {
 }
 
 .page-2 {
-    background-image: url("https://github.com/johnfrail/sugary/blob/master/static/img/second-bg.png?raw=true");
+    background-image: url("/static/img/second-bg.png");
     background-repeat: no-repeat;
     background-size: 25vw;
     background-position-y: 400px;
@@ -133,7 +133,7 @@ body {
 }
 
 .foot {
-    background-image: url("https://github.com/johnfrail/sugary/blob/master/static/img/foot.png?raw=true");
+    background-image: url("/static/img/foot.png");
 }
 .foot-brand {
     color: #6C5ABF;
